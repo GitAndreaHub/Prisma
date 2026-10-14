@@ -68,4 +68,4 @@ Il requisito macOS 11 è verificato nei binari. Intel è stato verificato anche 
 
 ---
 
-Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS. Le licenze dei componenti di terze parti sono incluse nell’app.
+Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS. Le licenze dei componenti di terze parti sono incluse nell’app. I sorgenti dei motori sono gestiti nella repository separata [Prisma-Dependencies](https://github.com/GitAndreaHub/Prisma-Dependencies).
