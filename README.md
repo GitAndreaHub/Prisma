@@ -11,9 +11,9 @@ Un’app nativa per macOS. Una ghiera intorno al puntatore. Tutto offline.
 ![Universal](https://img.shields.io/badge/Universal-Intel%20%2B%20Apple%20Silicon-24292F?style=flat-square)
 ![Offline](https://img.shields.io/badge/elaborazione-offline-39745B?style=flat-square)
 
-[**Release e download →**](https://github.com/GitAndreaHub/Prisma/releases)
+[**Scarica Prisma 0.4.0 per macOS →**](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal.dmg)
 
-*L’installer 0.4.0 è in preparazione per la distribuzione pubblica.*
+*Un unico DMG per Intel e Apple Silicon · macOS 11 o successivo.*
 
 </div>
 
@@ -40,7 +40,7 @@ Le azioni cambiano in base al file selezionato. Le funzioni aggiuntive sono disp
 
 ## Installazione
 
-Quando disponibile, scarica **Prisma-0.4.0-Universal.dmg** dalla sezione [Releases](https://github.com/GitAndreaHub/Prisma/releases).
+Scarica **Prisma-0.4.0-Universal.dmg** dalla [release 0.4.0](https://github.com/GitAndreaHub/Prisma/releases/tag/v0.4.0).
 
 1. Chiudi eventuali copie di Prisma già aperte.
 2. Apri il DMG e trascina **Prisma** in **Applicazioni**.
@@ -68,4 +68,4 @@ Il requisito macOS 11 è verificato nei binari. Intel è stato verificato anche 
 
 ---
 
-Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS. Le licenze dei componenti di terze parti sono incluse nell’app. I sorgenti dei motori sono gestiti nella repository separata [Prisma-Dependencies](https://github.com/GitAndreaHub/Prisma-Dependencies).
+Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS. Le licenze dei componenti di terze parti sono incluse nell’app. I sorgenti dei motori sono gestiti nella repository separata [Prisma-Dependencies](https://github.com/GitAndreaHub/Prisma-Dependencies/releases/tag/v0.4.0-sources). Gli archivi automatici “Source code” di GitHub contengono soltanto questa presentazione e le immagini.
