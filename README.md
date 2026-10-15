@@ -2,7 +2,7 @@
 
 ![Prisma — I tuoi file. Un nuovo gesto.](assets/prisma-hero.png)
 
-[![Scarica Prisma per macOS](assets/download-macos.svg)](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal.dmg)
+[![Scarica Prisma per macOS](assets/download-macos.svg)](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal-r2.dmg)
 
 *Versione 0.4.0 · Intel e Apple Silicon · macOS 11 o successivo*
 
@@ -40,7 +40,7 @@ Le azioni cambiano in base al file selezionato. Le funzioni aggiuntive sono disp
 
 ## Installazione
 
-Scarica **Prisma-0.4.0-Universal.dmg** dalla [release 0.4.0](https://github.com/GitAndreaHub/Prisma/releases/tag/v0.4.0).
+Scarica **Prisma-0.4.0-Universal-r2.dmg** dalla [release 0.4.0](https://github.com/GitAndreaHub/Prisma/releases/tag/v0.4.0).
 
 1. Chiudi eventuali copie di Prisma già aperte.
 2. Apri il DMG e trascina **Prisma** in **Applicazioni**.
@@ -68,4 +68,13 @@ Il requisito macOS 11 è verificato nei binari. Intel è stato verificato anche 
 
 ---
 
-Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS. Le licenze dei componenti di terze parti sono incluse nell’app. I sorgenti dei motori sono gestiti nella repository separata [Prisma-Dependencies](https://github.com/GitAndreaHub/Prisma-Dependencies/releases/tag/v0.4.0-sources). Gli archivi automatici “Source code” di GitHub contengono soltanto questa presentazione e le immagini.
+Questa repository presenta e distribuisce l’app compilata. **Il codice sorgente di Prisma non è pubblicato.** Le immagini sono mockup illustrativi; l’aspetto può variare con la versione e il tema di macOS.
+
+## Componenti di terze parti
+
+Prisma include motori multimediali open source. Le loro licenze sono incluse nell’app; i sorgenti dei motori, delle librerie, gli avvisi e gli script di compilazione sono disponibili qui:
+
+- [Scarica sorgenti e licenze dei motori per Prisma 0.4.0](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-ThirdParty-Sources.tar.gz)
+- [Componenti inclusi e istruzioni di compilazione](third-party/README.md)
+
+Questo materiale riguarda i componenti di terze parti e non contiene il codice sorgente dell’app Prisma. Gli archivi automatici “Source code” di GitHub contengono soltanto la presentazione, le immagini e questa documentazione.
