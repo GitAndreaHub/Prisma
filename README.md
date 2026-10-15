@@ -1,10 +1,10 @@
 <div align="center">
 
+![Prisma — I tuoi file. Un nuovo gesto.](assets/prisma-hero.png)
+
 [![Scarica Prisma per macOS](assets/download-macos.svg)](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal.dmg)
 
 *Versione 0.4.0 · Intel e Apple Silicon · macOS 11 o successivo*
-
-![Prisma — I tuoi file. Un nuovo gesto.](assets/prisma-hero.png)
 
 **Converti ed elabora i tuoi file, senza uscire dal Finder.**
 
