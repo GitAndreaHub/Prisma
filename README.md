@@ -1,5 +1,9 @@
 <div align="center">
 
+[![Scarica Prisma per macOS](assets/download-macos.svg)](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal.dmg)
+
+*Versione 0.4.0 · Intel e Apple Silicon · macOS 11 o successivo*
+
 ![Prisma — I tuoi file. Un nuovo gesto.](assets/prisma-hero.png)
 
 **Converti ed elabora i tuoi file, senza uscire dal Finder.**
@@ -10,10 +14,6 @@ Un’app nativa per macOS. Una ghiera intorno al puntatore. Tutto offline.
 ![macOS 11 o successivo](https://img.shields.io/badge/macOS-11%2B-24292F?style=flat-square)
 ![Universal](https://img.shields.io/badge/Universal-Intel%20%2B%20Apple%20Silicon-24292F?style=flat-square)
 ![Offline](https://img.shields.io/badge/elaborazione-offline-39745B?style=flat-square)
-
-[**Scarica Prisma 0.4.0 per macOS →**](https://github.com/GitAndreaHub/Prisma/releases/download/v0.4.0/Prisma-0.4.0-Universal.dmg)
-
-*Un unico DMG per Intel e Apple Silicon · macOS 11 o successivo.*
 
 </div>
 
